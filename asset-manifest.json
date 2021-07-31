@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/freakbeast14/aakanksha/static/css/main.233c0bb3.chunk.css",
+    "main.js": "/freakbeast14/aakanksha/static/js/main.3301a410.chunk.js",
+    "main.js.map": "/freakbeast14/aakanksha/static/js/main.3301a410.chunk.js.map",
+    "runtime-main.js": "/freakbeast14/aakanksha/static/js/runtime-main.035ed9b0.js",
+    "runtime-main.js.map": "/freakbeast14/aakanksha/static/js/runtime-main.035ed9b0.js.map",
+    "static/css/2.29e23a19.chunk.css": "/freakbeast14/aakanksha/static/css/2.29e23a19.chunk.css",
+    "static/js/2.2e501d99.chunk.js": "/freakbeast14/aakanksha/static/js/2.2e501d99.chunk.js",
+    "static/js/2.2e501d99.chunk.js.map": "/freakbeast14/aakanksha/static/js/2.2e501d99.chunk.js.map",
+    "index.html": "/freakbeast14/aakanksha/index.html",
+    "static/css/2.29e23a19.chunk.css.map": "/freakbeast14/aakanksha/static/css/2.29e23a19.chunk.css.map",
+    "static/css/main.233c0bb3.chunk.css.map": "/freakbeast14/aakanksha/static/css/main.233c0bb3.chunk.css.map",
+    "static/js/2.2e501d99.chunk.js.LICENSE.txt": "/freakbeast14/aakanksha/static/js/2.2e501d99.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/freakbeast14/aakanksha/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.035ed9b0.js",
+    "static/css/2.29e23a19.chunk.css",
+    "static/js/2.2e501d99.chunk.js",
+    "static/css/main.233c0bb3.chunk.css",
+    "static/js/main.3301a410.chunk.js"
+  ]
+}
