@@ -1,0 +1,43 @@
+.navbar {
+  overflow: hidden;
+  background: #3c1053ff;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  z-index: 3;
+  /* height: 10vh; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  /* float: left; */
+  /* display: block; */
+  color: #ffb6c1;
+  text-align: center;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.login-link{
+  margin-right: 1.25rem;
+}
+
+.heading{
+  font-size: 1.5rem;
+}
+
+.heading, .links{
+  padding: 1.25rem;
+  display: flex;
+  align-items: center;
+}
+
+/* Change background on mouse-over */
+/* .navbar a:hover {
+    background: #ddd;
+    color: black;
+  } */
+
