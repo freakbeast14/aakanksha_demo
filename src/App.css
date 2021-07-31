@@ -227,9 +227,8 @@ p {
 
 .cart .cart-item__details-qty {
   display: flex;
-  margin: 0 auto;
-  font-size: 1rem;
   justify-content: space-between;
+  width: 50px;
 }
 
 .cart .cart-item__details-qty button {
