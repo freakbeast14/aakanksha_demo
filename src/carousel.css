@@ -28,10 +28,10 @@
 }
 
 .swiper-pagination-bullet {
-  width: 20px;
-  border-radius: 5px;
-  height: 5px;
-  background-color: #3c1053ff;
+  width: 25px;
+  border-radius: 0;
+  height: 2px;
+  background-color: blueviolet;
 }
 
 .swiper-container{
